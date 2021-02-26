@@ -10,8 +10,6 @@ English
 - Permission Authentication
   - Page permission
   - Directive permission
-  - Permission configuration page
-  - Two-step login
 
 - Multi-environment build
   - Develop (dev)
@@ -20,7 +18,6 @@ English
   - Production (prod)
 
 - Global Features
-  - I18n
   - Multiple dynamic themes
   - Dynamic sidebar (supports multi-level routing)
   - Dynamic breadcrumb
@@ -29,17 +26,6 @@ English
   - Mock data
   - Screenfull
   - Responsive Sidebar
-
-- Editor
-  - Rich Text Editor
-  - Markdown Editor
-  - JSON Editor
-
-- Excel
-  - Export Excel
-  - Upload Excel
-  - Visualization Excel
-  - Export zip
 
 - Table
   - Dynamic Table
@@ -50,25 +36,6 @@ English
   - 401
   - 404
 
-- Components
-  - Avatar Upload
-  - Back To Top
-  - Drag Dialog
-  - Drag Select
-  - Drag Kanban
-  - Drag List
-  - SplitPane
-  - Dropzone
-  - Sticky
-  - CountTo
-
-- Advanced Example
-- Error Log
-- Dashboard
-- Guide Page
-- ECharts
-- Clipboard
-- Markdown to html
 ```
 
 ## Build Setup
